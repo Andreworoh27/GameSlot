@@ -1,0 +1,37 @@
+.update-container{
+    margin-top: 3%;
+}
+.title{
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
+.form-update {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 50vh;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.form-content{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.game-image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.form-label{
+    width: 25%;
+}
+.photo{
+    justify-self: flex-end;
+    width: 204px;
+}
+.form-input{
+    width: 100%;
+}

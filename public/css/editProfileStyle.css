@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-left: 20vw;
+    flex-wrap: wrap;
+}
+.title {
+    font-size: 2.5vw;
+    margin-left: 20vw;
+}
+hr.solid {
+    width: 60vw;
+    margin-left: 0;
+}
+.inputtext {
+    font-size: 1.1vw;
+    margin-bottom: 1vw;
+    padding: 10px;
+}
+.updateinput {
+    margin-left: -40vw;
+    height: 1.5vw;
+    width: 39vw;
+    margin-top:1vw;
+    font-size: 1vw;
+}
+.button {
+    margin-top: 6vw;
+    margin-left: -7vw;
+    background-color: #a442f5;
+    border: none;
+    color: white;
+    padding: 0.65vw 2vw;
+    text-decoration: none;
+    font-size: 1vw;
+    cursor: pointer;
+    border-radius: 0.5vw;
+}
+.button:hover {
+    background-color: #672999;
+}
+.userpic {
+    border-radius: 50%;
+    width: 3vw;
+    height: 3vw;
+    object-fit: cover;
+    margin-left: -40vw;
+}
+.newuserpic {
+    margin-left: 20vw;
+    margin-top: 1vw;
+    font-size: 1vw;
+}
+.title2 {
+    margin-top: 5vw;
+    font-size: 2.5vw;
+    margin-left: 20vw;
+}
+.error {
+    color: red;
+    margin-left: -40vw;
+    height: 1.5vw;
+    width: 39vw;
+    margin-top:1vw;
+    font-size: 1vw;
+}
+.error2 {
+    color: red;
+    margin-left: -40vw;
+    height: 1.5vw;
+    width: 39vw;
+    margin-top:1vw;
+    font-size: 1vw;
+}
